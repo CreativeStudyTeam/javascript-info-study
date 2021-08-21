@@ -1,4 +1,4 @@
-# javascript-info-study
+# [javascript-info-study](https://github.com/CreativeStudyTeam/javascript-info-study)
 
 - [게더타운 입장하기](https://gather.town/app/wUwmgOCiUzWIX42y/JavascriptInfoStudyTeam)
 - 비밀번호는 슬랙참고
