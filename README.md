@@ -8,4 +8,4 @@
 
 - OT: [바로가기](https://creco.me/slide?url=https://raw.githubusercontent.com/CreativeStudyTeam/javascript-info-study/main/OT.md)
 
-- [1주차 바로가기](https://github.com/CreativeStudyTeam/javascript-info-study/tree/main/week1)
+- [1주차 바로가기](/week1)
